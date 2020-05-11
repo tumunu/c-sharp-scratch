@@ -1,4 +1,6 @@
 # c-sharp-scratch
+A 'programming a day' repo for C# 
+
 ```bash
 $ sudo apt install gnupg ca-certificates
 ...
